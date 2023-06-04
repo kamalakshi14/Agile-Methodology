@@ -19,3 +19,8 @@ I really like using mARKDOWN
 
 ###### header 6
 I really like using mARKDOWN
+
+***Important*** text
+___Important___ text 
+__*Important*__ text 
+**_Important_** text
