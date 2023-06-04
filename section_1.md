@@ -9,8 +9,8 @@ I ~~really~~ **like** using mARKDOWN
 ### header 3
 
 I __really__ like using mARKDOWN
--[]list1
--[x]list2
+_[]list1
+_[x]list2
 #### header 4
 ______________________________________
 _I really like using mARKDOWN_
