@@ -63,7 +63,7 @@ Unordered
 
 Refer to [iim skills](https://iimskills.com/)
 
-Refer to (https://iimskills.com/ "Title" )
+Refer to  [iim skills](https://iimskills.com/ "Title")
 
 
 
