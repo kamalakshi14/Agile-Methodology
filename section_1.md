@@ -1,14 +1,14 @@
 # header 1
 
-I really like using mARKDOWN
+** I really like using mARKDOWN
 
 ## header 2
 
-I really like using mARKDOWN
+*I really like using mARKDOWN
 
 ### header 3
 
-I really like using mARKDOWN
+__I really like using mARKDOWN
 
 #### header 4
 ______________________________________
