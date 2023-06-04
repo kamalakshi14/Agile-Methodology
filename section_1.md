@@ -30,7 +30,7 @@ __*Important*__ text
 
 ordered list
 
-1.one
+1. one
 2. two
 4. three
 5. four
