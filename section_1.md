@@ -8,7 +8,7 @@ I really **like** using mARKDOWN
 
 ### header 3
 
-__I really like using mARKDOWN
+I __really__ like using mARKDOWN
 
 #### header 4
 ______________________________________
