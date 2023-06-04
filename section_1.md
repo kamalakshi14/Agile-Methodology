@@ -4,7 +4,7 @@ I really **like** using mARKDOWN
 
 ## header 2
 
-* I really like using mARKDOWN
+*I really like using mARKDOWN*
 
 ### header 3
 
