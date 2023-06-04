@@ -71,6 +71,6 @@ Refer to  [iim skills](https://iimskills.com/ "Title")
 | header  | title |
 | header  | title |
 
-Use a footnote to provide information.^[1] (https://iimskills.com/)]
+Use a footnote to provide information.^[1](https://iimskills.com/)]
 
 
