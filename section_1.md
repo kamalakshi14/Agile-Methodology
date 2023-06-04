@@ -37,6 +37,7 @@ ordered list
    2. indented item 
 6. four
 
+![Agile scrum workflow (2)](https://github.com/kamalakshi14/Agile-Methodology/assets/135496842/6985e1d1-7b6f-4e3c-904d-f68c1c8ab576)
 
 1. first
 1. two
